@@ -1,0 +1,7 @@
+# .streamlit/config.toml
+[theme]
+primaryColor = "#76A9FA"          # pastel blue (feel free to tweak)
+backgroundColor = "#FFFFFF"        # white
+secondaryBackgroundColor = "#F5F7FB" # very light blue/gray
+textColor = "#0F172A"              # dark slate
+font = "sans serif"
