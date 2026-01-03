@@ -1,4 +1,4 @@
-# DCM/TXT to Excel & MATLAB Data Converter
+# DCM/TXT to MATLAB & Excel Data Converter
 
 A specialized engineering tool built with Python and Streamlit to parse, visualize, and convert automotive ECU calibration files (.DCM and .TXT) into accessible formats for analysis and simulation.
 
